@@ -6,4 +6,4 @@ A memory system for AI agents (and humans) that:
   3. actively reviews them on an Ebbinghaus forgetting curve (1/3/7/14/30 days)
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"

@@ -59,6 +59,77 @@ memreview restore --full
 memreview restore --search "what was I doing with the GPU server"
 ```
 
+## MCP server — plug memreview into any agent
+
+`memreview-mcp` exposes the whole memory (search / write / daily notes /
+context snapshots / SRS review) as **MCP tools**, so Claude Desktop, Claude
+Code, Cursor, Trae or any MCP client can *use* your memory directly — and
+more importantly, *review* it on the forgetting curve.
+
+**Local-first:** the server runs on your own machine over stdio and only
+touches files under `MEMREVIEW_HOME`. No cloud, no network, no vendor.
+
+### Install
+
+```bash
+pip install -e ".[mcp-server]"     # installs memreview-mcp + MCP SDK
+```
+
+### Connect a client
+
+**Claude Code** (in your project dir):
+
+```bash
+claude mcp add memreview -- memreview-mcp
+```
+
+**Claude Desktop** — add to `claude_desktop_config.json` → `mcpServers`:
+
+```json
+{
+  "mcpServers": {
+    "memreview": {
+      "command": "memreview-mcp"
+    }
+  }
+}
+```
+
+**Cursor** — add to `.cursor/mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "memreview": {
+      "command": "memreview-mcp"
+    }
+  }
+}
+```
+
+Trae works the same way (command + args in its MCP settings). If the
+`memreview-mcp` binary isn't on your PATH, use
+`python -m memreview.mcp_server` as the command (on Windows, prefix with
+`cmd /c` if needed).
+
+### Tools exposed
+
+| tool | does |
+|---|---|
+| `status` | overview: home, sources, index, SRS stats |
+| `memory_search(q, n, source)` | semantic search over indexed notes |
+| `memory_write(filename, content)` | write/append a note under `notes/` |
+| `memory_daily(content)` | append to today's `notes/YYYY-MM-DD.md` |
+| `memory_read(path)` | read a note (path-traversal safe) |
+| `context_save(task, kind)` | snapshot current context |
+| `context_restore(full)` | latest snapshot summary / full dump |
+| `contexts_list()` | list saved snapshots |
+| `srs_add(category, front, back, example)` | add a flashcard |
+| `srs_due()` | items due today (forgetting-curve push) |
+| `srs_review(item_id, correct)` | grade a review |
+| `srs_stats()` | SRS totals |
+| `index_rebuild()` | re-embed changed files |
+
 ## How it works
 
 ```
@@ -97,8 +168,11 @@ memreview/
 │   ├── indexer.py    # semantic index + search (Ollama embeddings)
 │   ├── context.py    # context snapshots: save / restore / reset dumps
 │   ├── srs.py        # spaced-repetition engine (1/3/7/14/30 days)
+│   ├── mcp_server.py # `memreview-mcp` — MCP server (stdio, local-first)
 │   ├── cli.py        # `memreview` command
 │   └── config.py     # env-driven paths & embedding config
+├── tests/
+│   └── test_mcp_server.py  # end-to-end MCP client test (isolated HOME)
 ├── pyproject.toml
 └── LICENSE
 ```
@@ -108,10 +182,10 @@ memreview/
 - [x] Semantic index + incremental embedding
 - [x] Context snapshots (task-switch & pre-reset)
 - [x] SRS review engine (Ebbinghaus schedule)
+- [x] MCP server (`memreview-mcp`) for agents that speak MCP
 - [ ] OpenAI-compatible embedding client (beyond raw JSON endpoint)
 - [ ] `memreview import` from Obsidian / logseq folders
 - [ ] Review CLI with inline grading prompts
-- [ ] MCP server (`memreview-mcp`) for agents that speak MCP
 
 ## License
 
