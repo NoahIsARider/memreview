@@ -1,0 +1,1925 @@
+{
+ "seed": 42,
+ "facts": [
+  {
+   "id": "vb-000",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network component c000 was configured with V126225",
+   "value": "V126225",
+   "query": "What is the missing detail in: 'The network component c000 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-001",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "The database module c001 reports V356787",
+   "value": "V356787",
+   "query": "What is the missing detail in: 'The database module c001 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-002",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "In the storage subsystem, c002 has the setting V246316",
+   "value": "V246316",
+   "query": "What is the missing detail in: 'In the storage subsystem, c002 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-003",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "The deployment component c003 was configured with V809570",
+   "value": "V809570",
+   "query": "What is the missing detail in: 'The deployment component c003 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-004",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security component c004 was configured with V719176",
+   "value": "V719176",
+   "query": "What is the missing detail in: 'The security component c004 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-005",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "Record c005 in the finance log shows V133326",
+   "value": "V133326",
+   "query": "What is the missing detail in: 'Record c005 in the finance log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-006",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "The health component c006 was configured with V198246",
+   "value": "V198246",
+   "query": "What is the missing detail in: 'The health component c006 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-007",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "In the energy subsystem, c007 has the setting V343962",
+   "value": "V343962",
+   "query": "What is the missing detail in: 'In the energy subsystem, c007 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-008",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network component c008 was configured with V688508",
+   "value": "V688508",
+   "query": "What is the missing detail in: 'The network component c008 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-009",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "In the database subsystem, c009 has the setting V850800",
+   "value": "V850800",
+   "query": "What is the missing detail in: 'In the database subsystem, c009 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-010",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "Record c010 in the storage log shows V331148",
+   "value": "V331148",
+   "query": "What is the missing detail in: 'Record c010 in the storage log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-011",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "Record c011 in the deployment log shows V717889",
+   "value": "V717889",
+   "query": "What is the missing detail in: 'Record c011 in the deployment log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-012",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security module c012 reports V948749",
+   "value": "V948749",
+   "query": "What is the missing detail in: 'The security module c012 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-013",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "The finance component c013 was configured with V895667",
+   "value": "V895667",
+   "query": "What is the missing detail in: 'The finance component c013 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-014",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "In the health subsystem, c014 has the setting V832052",
+   "value": "V832052",
+   "query": "What is the missing detail in: 'In the health subsystem, c014 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-015",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "Record c015 in the energy log shows V456778",
+   "value": "V456778",
+   "query": "What is the missing detail in: 'Record c015 in the energy log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-016",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network module c016 reports V263032",
+   "value": "V263032",
+   "query": "What is the missing detail in: 'The network module c016 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-017",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "In the database subsystem, c017 has the setting V900581",
+   "value": "V900581",
+   "query": "What is the missing detail in: 'In the database subsystem, c017 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-018",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "The storage module c018 reports V207175",
+   "value": "V207175",
+   "query": "What is the missing detail in: 'The storage module c018 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-019",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "The deployment component c019 was configured with V498382",
+   "value": "V498382",
+   "query": "What is the missing detail in: 'The deployment component c019 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-020",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security component c020 was configured with V476417",
+   "value": "V476417",
+   "query": "What is the missing detail in: 'The security component c020 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-021",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "The finance module c021 reports V733052",
+   "value": "V733052",
+   "query": "What is the missing detail in: 'The finance module c021 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-022",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "The health module c022 reports V946335",
+   "value": "V946335",
+   "query": "What is the missing detail in: 'The health module c022 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-023",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "The energy component c023 was configured with V865179",
+   "value": "V865179",
+   "query": "What is the missing detail in: 'The energy component c023 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-024",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "Record c024 in the network log shows V662275",
+   "value": "V662275",
+   "query": "What is the missing detail in: 'Record c024 in the network log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-025",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "The database component c025 was configured with V496922",
+   "value": "V496922",
+   "query": "What is the missing detail in: 'The database component c025 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-026",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "The storage component c026 was configured with V678856",
+   "value": "V678856",
+   "query": "What is the missing detail in: 'The storage component c026 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-027",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "The deployment module c027 reports V969693",
+   "value": "V969693",
+   "query": "What is the missing detail in: 'The deployment module c027 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-028",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security module c028 reports V705397",
+   "value": "V705397",
+   "query": "What is the missing detail in: 'The security module c028 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-029",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "In the finance subsystem, c029 has the setting V838797",
+   "value": "V838797",
+   "query": "What is the missing detail in: 'In the finance subsystem, c029 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-030",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "The health component c030 was configured with V148050",
+   "value": "V148050",
+   "query": "What is the missing detail in: 'The health component c030 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-031",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "In the energy subsystem, c031 has the setting V910620",
+   "value": "V910620",
+   "query": "What is the missing detail in: 'In the energy subsystem, c031 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-032",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network module c032 reports V183667",
+   "value": "V183667",
+   "query": "What is the missing detail in: 'The network module c032 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-033",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "In the database subsystem, c033 has the setting V205907",
+   "value": "V205907",
+   "query": "What is the missing detail in: 'In the database subsystem, c033 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-034",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "Record c034 in the storage log shows V391476",
+   "value": "V391476",
+   "query": "What is the missing detail in: 'Record c034 in the storage log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-035",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "Record c035 in the deployment log shows V766563",
+   "value": "V766563",
+   "query": "What is the missing detail in: 'Record c035 in the deployment log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-036",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security module c036 reports V270555",
+   "value": "V270555",
+   "query": "What is the missing detail in: 'The security module c036 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-037",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "The finance module c037 reports V472528",
+   "value": "V472528",
+   "query": "What is the missing detail in: 'The finance module c037 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-038",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "In the health subsystem, c038 has the setting V802729",
+   "value": "V802729",
+   "query": "What is the missing detail in: 'In the health subsystem, c038 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-039",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "The energy module c039 reports V835911",
+   "value": "V835911",
+   "query": "What is the missing detail in: 'The energy module c039 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-040",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network component c040 was configured with V738720",
+   "value": "V738720",
+   "query": "What is the missing detail in: 'The network component c040 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-041",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "In the database subsystem, c041 has the setting V660086",
+   "value": "V660086",
+   "query": "What is the missing detail in: 'In the database subsystem, c041 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-042",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "In the storage subsystem, c042 has the setting V271339",
+   "value": "V271339",
+   "query": "What is the missing detail in: 'In the storage subsystem, c042 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-043",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "Record c043 in the deployment log shows V497887",
+   "value": "V497887",
+   "query": "What is the missing detail in: 'Record c043 in the deployment log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-044",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security module c044 reports V771088",
+   "value": "V771088",
+   "query": "What is the missing detail in: 'The security module c044 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-045",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "In the finance subsystem, c045 has the setting V817870",
+   "value": "V817870",
+   "query": "What is the missing detail in: 'In the finance subsystem, c045 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-046",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "The health module c046 reports V983794",
+   "value": "V983794",
+   "query": "What is the missing detail in: 'The health module c046 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-047",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "The energy component c047 was configured with V340174",
+   "value": "V340174",
+   "query": "What is the missing detail in: 'The energy component c047 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-048",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network component c048 was configured with V944151",
+   "value": "V944151",
+   "query": "What is the missing detail in: 'The network component c048 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-049",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "The database module c049 reports V520651",
+   "value": "V520651",
+   "query": "What is the missing detail in: 'The database module c049 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-050",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "The storage module c050 reports V169403",
+   "value": "V169403",
+   "query": "What is the missing detail in: 'The storage module c050 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-051",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "In the deployment subsystem, c051 has the setting V694731",
+   "value": "V694731",
+   "query": "What is the missing detail in: 'In the deployment subsystem, c051 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-052",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security module c052 reports V322955",
+   "value": "V322955",
+   "query": "What is the missing detail in: 'The security module c052 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-053",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "Record c053 in the finance log shows V514850",
+   "value": "V514850",
+   "query": "What is the missing detail in: 'Record c053 in the finance log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-054",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "Record c054 in the health log shows V249811",
+   "value": "V249811",
+   "query": "What is the missing detail in: 'Record c054 in the health log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-055",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "The energy module c055 reports V246413",
+   "value": "V246413",
+   "query": "What is the missing detail in: 'The energy module c055 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-056",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "In the network subsystem, c056 has the setting V881177",
+   "value": "V881177",
+   "query": "What is the missing detail in: 'In the network subsystem, c056 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-057",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "The database module c057 reports V883300",
+   "value": "V883300",
+   "query": "What is the missing detail in: 'The database module c057 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-058",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "Record c058 in the storage log shows V711878",
+   "value": "V711878",
+   "query": "What is the missing detail in: 'Record c058 in the storage log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-059",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "Record c059 in the deployment log shows V479580",
+   "value": "V479580",
+   "query": "What is the missing detail in: 'Record c059 in the deployment log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-060",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "In the security subsystem, c060 has the setting V245051",
+   "value": "V245051",
+   "query": "What is the missing detail in: 'In the security subsystem, c060 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-061",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "Record c061 in the finance log shows V195325",
+   "value": "V195325",
+   "query": "What is the missing detail in: 'Record c061 in the finance log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-062",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "The health component c062 was configured with V214975",
+   "value": "V214975",
+   "query": "What is the missing detail in: 'The health component c062 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-063",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "In the energy subsystem, c063 has the setting V757924",
+   "value": "V757924",
+   "query": "What is the missing detail in: 'In the energy subsystem, c063 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-064",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "In the network subsystem, c064 has the setting V930555",
+   "value": "V930555",
+   "query": "What is the missing detail in: 'In the network subsystem, c064 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-065",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "Record c065 in the database log shows V725380",
+   "value": "V725380",
+   "query": "What is the missing detail in: 'Record c065 in the database log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-066",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "The storage component c066 was configured with V503457",
+   "value": "V503457",
+   "query": "What is the missing detail in: 'The storage component c066 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-067",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "Record c067 in the deployment log shows V724834",
+   "value": "V724834",
+   "query": "What is the missing detail in: 'Record c067 in the deployment log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-068",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "Record c068 in the security log shows V654816",
+   "value": "V654816",
+   "query": "What is the missing detail in: 'Record c068 in the security log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-069",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "The finance module c069 reports V680099",
+   "value": "V680099",
+   "query": "What is the missing detail in: 'The finance module c069 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-070",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "The health component c070 was configured with V813328",
+   "value": "V813328",
+   "query": "What is the missing detail in: 'The health component c070 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-071",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "The energy component c071 was configured with V814825",
+   "value": "V814825",
+   "query": "What is the missing detail in: 'The energy component c071 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-072",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network module c072 reports V905934",
+   "value": "V905934",
+   "query": "What is the missing detail in: 'The network module c072 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-073",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "The database module c073 reports V216970",
+   "value": "V216970",
+   "query": "What is the missing detail in: 'The database module c073 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-074",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "The storage module c074 reports V555884",
+   "value": "V555884",
+   "query": "What is the missing detail in: 'The storage module c074 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-075",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "In the deployment subsystem, c075 has the setting V575763",
+   "value": "V575763",
+   "query": "What is the missing detail in: 'In the deployment subsystem, c075 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-076",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security component c076 was configured with V857168",
+   "value": "V857168",
+   "query": "What is the missing detail in: 'The security component c076 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-077",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "The finance module c077 reports V624902",
+   "value": "V624902",
+   "query": "What is the missing detail in: 'The finance module c077 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-078",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "In the health subsystem, c078 has the setting V632342",
+   "value": "V632342",
+   "query": "What is the missing detail in: 'In the health subsystem, c078 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-079",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "The energy component c079 was configured with V755674",
+   "value": "V755674",
+   "query": "What is the missing detail in: 'The energy component c079 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-080",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network module c080 reports V982554",
+   "value": "V982554",
+   "query": "What is the missing detail in: 'The network module c080 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-081",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "In the database subsystem, c081 has the setting V260263",
+   "value": "V260263",
+   "query": "What is the missing detail in: 'In the database subsystem, c081 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-082",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "The storage module c082 reports V899550",
+   "value": "V899550",
+   "query": "What is the missing detail in: 'The storage module c082 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-083",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "In the deployment subsystem, c083 has the setting V665579",
+   "value": "V665579",
+   "query": "What is the missing detail in: 'In the deployment subsystem, c083 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-084",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security component c084 was configured with V728038",
+   "value": "V728038",
+   "query": "What is the missing detail in: 'The security component c084 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-085",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "The finance module c085 reports V612340",
+   "value": "V612340",
+   "query": "What is the missing detail in: 'The finance module c085 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-086",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "The health component c086 was configured with V217301",
+   "value": "V217301",
+   "query": "What is the missing detail in: 'The health component c086 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-087",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "The energy module c087 reports V972064",
+   "value": "V972064",
+   "query": "What is the missing detail in: 'The energy module c087 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-088",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "The network module c088 reports V351083",
+   "value": "V351083",
+   "query": "What is the missing detail in: 'The network module c088 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-089",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "The database component c089 was configured with V352572",
+   "value": "V352572",
+   "query": "What is the missing detail in: 'The database component c089 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-090",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "The storage component c090 was configured with V189814",
+   "value": "V189814",
+   "query": "What is the missing detail in: 'The storage component c090 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-091",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "Record c091 in the deployment log shows V955662",
+   "value": "V955662",
+   "query": "What is the missing detail in: 'Record c091 in the deployment log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-092",
+   "tier": "verbatim",
+   "topic": "security",
+   "text": "The security component c092 was configured with V897549",
+   "value": "V897549",
+   "query": "What is the missing detail in: 'The security component c092 was configured with' ? Answer with the value only."
+  },
+  {
+   "id": "vb-093",
+   "tier": "verbatim",
+   "topic": "finance",
+   "text": "In the finance subsystem, c093 has the setting V234628",
+   "value": "V234628",
+   "query": "What is the missing detail in: 'In the finance subsystem, c093 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-094",
+   "tier": "verbatim",
+   "topic": "health",
+   "text": "Record c094 in the health log shows V676510",
+   "value": "V676510",
+   "query": "What is the missing detail in: 'Record c094 in the health log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-095",
+   "tier": "verbatim",
+   "topic": "energy",
+   "text": "In the energy subsystem, c095 has the setting V377932",
+   "value": "V377932",
+   "query": "What is the missing detail in: 'In the energy subsystem, c095 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-096",
+   "tier": "verbatim",
+   "topic": "network",
+   "text": "Record c096 in the network log shows V322086",
+   "value": "V322086",
+   "query": "What is the missing detail in: 'Record c096 in the network log shows' ? Answer with the value only."
+  },
+  {
+   "id": "vb-097",
+   "tier": "verbatim",
+   "topic": "database",
+   "text": "In the database subsystem, c097 has the setting V847581",
+   "value": "V847581",
+   "query": "What is the missing detail in: 'In the database subsystem, c097 has the setting' ? Answer with the value only."
+  },
+  {
+   "id": "vb-098",
+   "tier": "verbatim",
+   "topic": "storage",
+   "text": "The storage module c098 reports V518373",
+   "value": "V518373",
+   "query": "What is the missing detail in: 'The storage module c098 reports' ? Answer with the value only."
+  },
+  {
+   "id": "vb-099",
+   "tier": "verbatim",
+   "topic": "deployment",
+   "text": "The deployment module c099 reports V559381",
+   "value": "V559381",
+   "query": "What is the missing detail in: 'The deployment module c099 reports' ? Answer with the value only."
+  },
+  {
+   "id": "gs-000",
+   "tier": "gist",
+   "topic": "network",
+   "text": "Reliability in network depends on G-alpha-32",
+   "value": "G-alpha-32",
+   "query": "What is the missing detail in: 'Reliability in network depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-001",
+   "tier": "gist",
+   "topic": "database",
+   "text": "For database workloads, the standard practice is G-alpha-44",
+   "value": "G-alpha-44",
+   "query": "What is the missing detail in: 'For database workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-002",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "The storage team prefers G-epsilon-71 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The storage team prefers G-epsilon-71 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-003",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "For deployment workloads, the standard practice is G-epsilon-29",
+   "value": "G-epsilon-29",
+   "query": "What is the missing detail in: 'For deployment workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-004",
+   "tier": "gist",
+   "topic": "security",
+   "text": "The security team prefers G-alpha-91 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The security team prefers G-alpha-91 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-005",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "The finance team prefers G-beta-9 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The finance team prefers G-beta-9 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-006",
+   "tier": "gist",
+   "topic": "health",
+   "text": "The health team prefers G-gamma-10 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The health team prefers G-gamma-10 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-007",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "For energy workloads, the standard practice is G-gamma-86",
+   "value": "G-gamma-86",
+   "query": "What is the missing detail in: 'For energy workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-008",
+   "tier": "gist",
+   "topic": "network",
+   "text": "Reliability in network depends on G-beta-70",
+   "value": "G-beta-70",
+   "query": "What is the missing detail in: 'Reliability in network depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-009",
+   "tier": "gist",
+   "topic": "database",
+   "text": "For database workloads, the standard practice is G-epsilon-74",
+   "value": "G-epsilon-74",
+   "query": "What is the missing detail in: 'For database workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-010",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "Reliability in storage depends on G-beta-61",
+   "value": "G-beta-61",
+   "query": "What is the missing detail in: 'Reliability in storage depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-011",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "Reliability in deployment depends on G-beta-13",
+   "value": "G-beta-13",
+   "query": "What is the missing detail in: 'Reliability in deployment depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-012",
+   "tier": "gist",
+   "topic": "security",
+   "text": "The security team prefers G-delta-46 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The security team prefers G-delta-46 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-013",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "Reliability in finance depends on G-delta-60",
+   "value": "G-delta-60",
+   "query": "What is the missing detail in: 'Reliability in finance depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-014",
+   "tier": "gist",
+   "topic": "health",
+   "text": "The health team prefers G-alpha-8 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The health team prefers G-alpha-8 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-015",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "Reliability in energy depends on G-gamma-14",
+   "value": "G-gamma-14",
+   "query": "What is the missing detail in: 'Reliability in energy depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-016",
+   "tier": "gist",
+   "topic": "network",
+   "text": "For network workloads, the standard practice is G-beta-25",
+   "value": "G-beta-25",
+   "query": "What is the missing detail in: 'For network workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-017",
+   "tier": "gist",
+   "topic": "database",
+   "text": "Reliability in database depends on G-beta-55",
+   "value": "G-beta-55",
+   "query": "What is the missing detail in: 'Reliability in database depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-018",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "For storage workloads, the standard practice is G-gamma-60",
+   "value": "G-gamma-60",
+   "query": "What is the missing detail in: 'For storage workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-019",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "For deployment workloads, the standard practice is G-alpha-57",
+   "value": "G-alpha-57",
+   "query": "What is the missing detail in: 'For deployment workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-020",
+   "tier": "gist",
+   "topic": "security",
+   "text": "The security team prefers G-alpha-84 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The security team prefers G-alpha-84 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-021",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "The finance team prefers G-alpha-97 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The finance team prefers G-alpha-97 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-022",
+   "tier": "gist",
+   "topic": "health",
+   "text": "For health workloads, the standard practice is G-beta-53",
+   "value": "G-beta-53",
+   "query": "What is the missing detail in: 'For health workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-023",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "Reliability in energy depends on G-delta-28",
+   "value": "G-delta-28",
+   "query": "What is the missing detail in: 'Reliability in energy depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-024",
+   "tier": "gist",
+   "topic": "network",
+   "text": "Reliability in network depends on G-alpha-22",
+   "value": "G-alpha-22",
+   "query": "What is the missing detail in: 'Reliability in network depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-025",
+   "tier": "gist",
+   "topic": "database",
+   "text": "Reliability in database depends on G-alpha-50",
+   "value": "G-alpha-50",
+   "query": "What is the missing detail in: 'Reliability in database depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-026",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "The storage policy requires G-delta-37",
+   "value": "G-delta-37",
+   "query": "What is the missing detail in: 'The storage policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-027",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "Reliability in deployment depends on G-epsilon-85",
+   "value": "G-epsilon-85",
+   "query": "What is the missing detail in: 'Reliability in deployment depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-028",
+   "tier": "gist",
+   "topic": "security",
+   "text": "Reliability in security depends on G-beta-25",
+   "value": "G-beta-25",
+   "query": "What is the missing detail in: 'Reliability in security depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-029",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "The finance policy requires G-beta-8",
+   "value": "G-beta-8",
+   "query": "What is the missing detail in: 'The finance policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-030",
+   "tier": "gist",
+   "topic": "health",
+   "text": "The health team prefers G-gamma-8 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The health team prefers G-gamma-8 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-031",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "The energy team prefers G-epsilon-62 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The energy team prefers G-epsilon-62 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-032",
+   "tier": "gist",
+   "topic": "network",
+   "text": "For network workloads, the standard practice is G-alpha-66",
+   "value": "G-alpha-66",
+   "query": "What is the missing detail in: 'For network workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-033",
+   "tier": "gist",
+   "topic": "database",
+   "text": "The database team prefers G-beta-9 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The database team prefers G-beta-9 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-034",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "The storage team prefers G-beta-52 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The storage team prefers G-beta-52 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-035",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "The deployment team prefers G-epsilon-32 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The deployment team prefers G-epsilon-32 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-036",
+   "tier": "gist",
+   "topic": "security",
+   "text": "The security team prefers G-epsilon-11 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The security team prefers G-epsilon-11 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-037",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "Reliability in finance depends on G-epsilon-73",
+   "value": "G-epsilon-73",
+   "query": "What is the missing detail in: 'Reliability in finance depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-038",
+   "tier": "gist",
+   "topic": "health",
+   "text": "The health policy requires G-gamma-27",
+   "value": "G-gamma-27",
+   "query": "What is the missing detail in: 'The health policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-039",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "The energy policy requires G-beta-34",
+   "value": "G-beta-34",
+   "query": "What is the missing detail in: 'The energy policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-040",
+   "tier": "gist",
+   "topic": "network",
+   "text": "Reliability in network depends on G-beta-86",
+   "value": "G-beta-86",
+   "query": "What is the missing detail in: 'Reliability in network depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-041",
+   "tier": "gist",
+   "topic": "database",
+   "text": "The database policy requires G-delta-41",
+   "value": "G-delta-41",
+   "query": "What is the missing detail in: 'The database policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-042",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "The storage team prefers G-alpha-59 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The storage team prefers G-alpha-59 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-043",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "The deployment team prefers G-alpha-69 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The deployment team prefers G-alpha-69 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-044",
+   "tier": "gist",
+   "topic": "security",
+   "text": "For security workloads, the standard practice is G-epsilon-34",
+   "value": "G-epsilon-34",
+   "query": "What is the missing detail in: 'For security workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-045",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "For finance workloads, the standard practice is G-gamma-9",
+   "value": "G-gamma-9",
+   "query": "What is the missing detail in: 'For finance workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-046",
+   "tier": "gist",
+   "topic": "health",
+   "text": "For health workloads, the standard practice is G-gamma-37",
+   "value": "G-gamma-37",
+   "query": "What is the missing detail in: 'For health workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-047",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "For energy workloads, the standard practice is G-delta-70",
+   "value": "G-delta-70",
+   "query": "What is the missing detail in: 'For energy workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-048",
+   "tier": "gist",
+   "topic": "network",
+   "text": "The network policy requires G-epsilon-84",
+   "value": "G-epsilon-84",
+   "query": "What is the missing detail in: 'The network policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-049",
+   "tier": "gist",
+   "topic": "database",
+   "text": "The database team prefers G-epsilon-39 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The database team prefers G-epsilon-39 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-050",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "The storage team prefers G-beta-34 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The storage team prefers G-beta-34 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-051",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "The deployment team prefers G-alpha-96 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The deployment team prefers G-alpha-96 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-052",
+   "tier": "gist",
+   "topic": "security",
+   "text": "For security workloads, the standard practice is G-gamma-37",
+   "value": "G-gamma-37",
+   "query": "What is the missing detail in: 'For security workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-053",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "For finance workloads, the standard practice is G-gamma-27",
+   "value": "G-gamma-27",
+   "query": "What is the missing detail in: 'For finance workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-054",
+   "tier": "gist",
+   "topic": "health",
+   "text": "The health policy requires G-epsilon-63",
+   "value": "G-epsilon-63",
+   "query": "What is the missing detail in: 'The health policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-055",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "The energy policy requires G-alpha-12",
+   "value": "G-alpha-12",
+   "query": "What is the missing detail in: 'The energy policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-056",
+   "tier": "gist",
+   "topic": "network",
+   "text": "Reliability in network depends on G-gamma-6",
+   "value": "G-gamma-6",
+   "query": "What is the missing detail in: 'Reliability in network depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-057",
+   "tier": "gist",
+   "topic": "database",
+   "text": "The database team prefers G-gamma-99 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The database team prefers G-gamma-99 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-058",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "For storage workloads, the standard practice is G-gamma-21",
+   "value": "G-gamma-21",
+   "query": "What is the missing detail in: 'For storage workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-059",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "Reliability in deployment depends on G-epsilon-91",
+   "value": "G-epsilon-91",
+   "query": "What is the missing detail in: 'Reliability in deployment depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-060",
+   "tier": "gist",
+   "topic": "security",
+   "text": "Reliability in security depends on G-epsilon-2",
+   "value": "G-epsilon-2",
+   "query": "What is the missing detail in: 'Reliability in security depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-061",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "The finance team prefers G-alpha-89 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The finance team prefers G-alpha-89 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-062",
+   "tier": "gist",
+   "topic": "health",
+   "text": "For health workloads, the standard practice is G-epsilon-5",
+   "value": "G-epsilon-5",
+   "query": "What is the missing detail in: 'For health workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-063",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "The energy policy requires G-epsilon-71",
+   "value": "G-epsilon-71",
+   "query": "What is the missing detail in: 'The energy policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-064",
+   "tier": "gist",
+   "topic": "network",
+   "text": "For network workloads, the standard practice is G-delta-17",
+   "value": "G-delta-17",
+   "query": "What is the missing detail in: 'For network workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-065",
+   "tier": "gist",
+   "topic": "database",
+   "text": "The database team prefers G-gamma-47 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The database team prefers G-gamma-47 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-066",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "The storage team prefers G-gamma-27 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The storage team prefers G-gamma-27 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-067",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "For deployment workloads, the standard practice is G-alpha-46",
+   "value": "G-alpha-46",
+   "query": "What is the missing detail in: 'For deployment workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-068",
+   "tier": "gist",
+   "topic": "security",
+   "text": "Reliability in security depends on G-epsilon-96",
+   "value": "G-epsilon-96",
+   "query": "What is the missing detail in: 'Reliability in security depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-069",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "For finance workloads, the standard practice is G-beta-21",
+   "value": "G-beta-21",
+   "query": "What is the missing detail in: 'For finance workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-070",
+   "tier": "gist",
+   "topic": "health",
+   "text": "For health workloads, the standard practice is G-delta-4",
+   "value": "G-delta-4",
+   "query": "What is the missing detail in: 'For health workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-071",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "For energy workloads, the standard practice is G-gamma-53",
+   "value": "G-gamma-53",
+   "query": "What is the missing detail in: 'For energy workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-072",
+   "tier": "gist",
+   "topic": "network",
+   "text": "For network workloads, the standard practice is G-gamma-21",
+   "value": "G-gamma-21",
+   "query": "What is the missing detail in: 'For network workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-073",
+   "tier": "gist",
+   "topic": "database",
+   "text": "The database team prefers G-delta-5 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The database team prefers G-delta-5 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-074",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "Reliability in storage depends on G-beta-26",
+   "value": "G-beta-26",
+   "query": "What is the missing detail in: 'Reliability in storage depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-075",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "Reliability in deployment depends on G-gamma-40",
+   "value": "G-gamma-40",
+   "query": "What is the missing detail in: 'Reliability in deployment depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-076",
+   "tier": "gist",
+   "topic": "security",
+   "text": "For security workloads, the standard practice is G-beta-4",
+   "value": "G-beta-4",
+   "query": "What is the missing detail in: 'For security workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-077",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "For finance workloads, the standard practice is G-delta-43",
+   "value": "G-delta-43",
+   "query": "What is the missing detail in: 'For finance workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-078",
+   "tier": "gist",
+   "topic": "health",
+   "text": "The health policy requires G-alpha-99",
+   "value": "G-alpha-99",
+   "query": "What is the missing detail in: 'The health policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-079",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "The energy policy requires G-gamma-83",
+   "value": "G-gamma-83",
+   "query": "What is the missing detail in: 'The energy policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-080",
+   "tier": "gist",
+   "topic": "network",
+   "text": "Reliability in network depends on G-epsilon-43",
+   "value": "G-epsilon-43",
+   "query": "What is the missing detail in: 'Reliability in network depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-081",
+   "tier": "gist",
+   "topic": "database",
+   "text": "The database team prefers G-alpha-34 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The database team prefers G-alpha-34 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-082",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "For storage workloads, the standard practice is G-epsilon-34",
+   "value": "G-epsilon-34",
+   "query": "What is the missing detail in: 'For storage workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-083",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "The deployment team prefers G-alpha-77 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The deployment team prefers G-alpha-77 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-084",
+   "tier": "gist",
+   "topic": "security",
+   "text": "Reliability in security depends on G-gamma-94",
+   "value": "G-gamma-94",
+   "query": "What is the missing detail in: 'Reliability in security depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-085",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "The finance policy requires G-delta-78",
+   "value": "G-delta-78",
+   "query": "What is the missing detail in: 'The finance policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-086",
+   "tier": "gist",
+   "topic": "health",
+   "text": "The health team prefers G-delta-74 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The health team prefers G-delta-74 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-087",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "For energy workloads, the standard practice is G-gamma-6",
+   "value": "G-gamma-6",
+   "query": "What is the missing detail in: 'For energy workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-088",
+   "tier": "gist",
+   "topic": "network",
+   "text": "Reliability in network depends on G-alpha-67",
+   "value": "G-alpha-67",
+   "query": "What is the missing detail in: 'Reliability in network depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-089",
+   "tier": "gist",
+   "topic": "database",
+   "text": "For database workloads, the standard practice is G-gamma-56",
+   "value": "G-gamma-56",
+   "query": "What is the missing detail in: 'For database workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-090",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "The storage team prefers G-gamma-80 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The storage team prefers G-gamma-80 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-091",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "The deployment policy requires G-alpha-93",
+   "value": "G-alpha-93",
+   "query": "What is the missing detail in: 'The deployment policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-092",
+   "tier": "gist",
+   "topic": "security",
+   "text": "The security policy requires G-epsilon-40",
+   "value": "G-epsilon-40",
+   "query": "What is the missing detail in: 'The security policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-093",
+   "tier": "gist",
+   "topic": "finance",
+   "text": "Reliability in finance depends on G-gamma-52",
+   "value": "G-gamma-52",
+   "query": "What is the missing detail in: 'Reliability in finance depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-094",
+   "tier": "gist",
+   "topic": "health",
+   "text": "The health policy requires G-epsilon-17",
+   "value": "G-epsilon-17",
+   "query": "What is the missing detail in: 'The health policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-095",
+   "tier": "gist",
+   "topic": "energy",
+   "text": "For energy workloads, the standard practice is G-delta-86",
+   "value": "G-delta-86",
+   "query": "What is the missing detail in: 'For energy workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "gs-096",
+   "tier": "gist",
+   "topic": "network",
+   "text": "Reliability in network depends on G-beta-79",
+   "value": "G-beta-79",
+   "query": "What is the missing detail in: 'Reliability in network depends on' ? Answer with the value only."
+  },
+  {
+   "id": "gs-097",
+   "tier": "gist",
+   "topic": "database",
+   "text": "The database policy requires G-delta-71",
+   "value": "G-delta-71",
+   "query": "What is the missing detail in: 'The database policy requires' ? Answer with the value only."
+  },
+  {
+   "id": "gs-098",
+   "tier": "gist",
+   "topic": "storage",
+   "text": "The storage team prefers G-gamma-37 over alternatives",
+   "value": "alternatives",
+   "query": "What is the missing detail in: 'The storage team prefers G-gamma-37 over' ? Answer with the value only."
+  },
+  {
+   "id": "gs-099",
+   "tier": "gist",
+   "topic": "deployment",
+   "text": "For deployment workloads, the standard practice is G-delta-75",
+   "value": "G-delta-75",
+   "query": "What is the missing detail in: 'For deployment workloads, the standard practice is' ? Answer with the value only."
+  },
+  {
+   "id": "cf-000a",
+   "tier": "confusable",
+   "topic": "network",
+   "text": "The network node A-6 was assigned the capacity of 576 GiB",
+   "value": "576 GiB",
+   "query": "What is the missing detail in: 'The network node A-6 was assigned the capacity of 576' ? Answer with the value only."
+  },
+  {
+   "id": "cf-000b",
+   "tier": "confusable",
+   "topic": "network",
+   "text": "The network node A-6 was assigned the capacity of 552 GiB",
+   "value": "552 GiB",
+   "query": "What is the missing detail in: 'The network node A-6 was assigned the capacity of 552' ? Answer with the value only."
+  },
+  {
+   "id": "cf-001a",
+   "tier": "confusable",
+   "topic": "database",
+   "text": "The database node B-8 was assigned the capacity of 791 GiB",
+   "value": "791 GiB",
+   "query": "What is the missing detail in: 'The database node B-8 was assigned the capacity of 791' ? Answer with the value only."
+  },
+  {
+   "id": "cf-001b",
+   "tier": "confusable",
+   "topic": "database",
+   "text": "The database node B-8 was assigned the capacity of 318 GiB",
+   "value": "318 GiB",
+   "query": "What is the missing detail in: 'The database node B-8 was assigned the capacity of 318' ? Answer with the value only."
+  },
+  {
+   "id": "cf-002a",
+   "tier": "confusable",
+   "topic": "storage",
+   "text": "The storage node C-9 was assigned the capacity of 584 GiB",
+   "value": "584 GiB",
+   "query": "What is the missing detail in: 'The storage node C-9 was assigned the capacity of 584' ? Answer with the value only."
+  },
+  {
+   "id": "cf-002b",
+   "tier": "confusable",
+   "topic": "storage",
+   "text": "The storage node C-9 was assigned the capacity of 853 GiB",
+   "value": "853 GiB",
+   "query": "What is the missing detail in: 'The storage node C-9 was assigned the capacity of 853' ? Answer with the value only."
+  },
+  {
+   "id": "cf-003a",
+   "tier": "confusable",
+   "topic": "deployment",
+   "text": "The deployment node D-3 was assigned the capacity of 774 GiB",
+   "value": "774 GiB",
+   "query": "What is the missing detail in: 'The deployment node D-3 was assigned the capacity of 774' ? Answer with the value only."
+  },
+  {
+   "id": "cf-003b",
+   "tier": "confusable",
+   "topic": "deployment",
+   "text": "The deployment node D-3 was assigned the capacity of 186 GiB",
+   "value": "186 GiB",
+   "query": "What is the missing detail in: 'The deployment node D-3 was assigned the capacity of 186' ? Answer with the value only."
+  },
+  {
+   "id": "cf-004a",
+   "tier": "confusable",
+   "topic": "security",
+   "text": "The security node E-5 was assigned the capacity of 627 GiB",
+   "value": "627 GiB",
+   "query": "What is the missing detail in: 'The security node E-5 was assigned the capacity of 627' ? Answer with the value only."
+  },
+  {
+   "id": "cf-004b",
+   "tier": "confusable",
+   "topic": "security",
+   "text": "The security node E-5 was assigned the capacity of 779 GiB",
+   "value": "779 GiB",
+   "query": "What is the missing detail in: 'The security node E-5 was assigned the capacity of 779' ? Answer with the value only."
+  },
+  {
+   "id": "cf-005a",
+   "tier": "confusable",
+   "topic": "finance",
+   "text": "The finance node F-6 was assigned the capacity of 195 GiB",
+   "value": "195 GiB",
+   "query": "What is the missing detail in: 'The finance node F-6 was assigned the capacity of 195' ? Answer with the value only."
+  },
+  {
+   "id": "cf-005b",
+   "tier": "confusable",
+   "topic": "finance",
+   "text": "The finance node F-6 was assigned the capacity of 869 GiB",
+   "value": "869 GiB",
+   "query": "What is the missing detail in: 'The finance node F-6 was assigned the capacity of 869' ? Answer with the value only."
+  },
+  {
+   "id": "cf-006a",
+   "tier": "confusable",
+   "topic": "health",
+   "text": "The health node G-4 was assigned the capacity of 788 GiB",
+   "value": "788 GiB",
+   "query": "What is the missing detail in: 'The health node G-4 was assigned the capacity of 788' ? Answer with the value only."
+  },
+  {
+   "id": "cf-006b",
+   "tier": "confusable",
+   "topic": "health",
+   "text": "The health node G-4 was assigned the capacity of 417 GiB",
+   "value": "417 GiB",
+   "query": "What is the missing detail in: 'The health node G-4 was assigned the capacity of 417' ? Answer with the value only."
+  },
+  {
+   "id": "cf-007a",
+   "tier": "confusable",
+   "topic": "energy",
+   "text": "The energy node H-4 was assigned the capacity of 303 GiB",
+   "value": "303 GiB",
+   "query": "What is the missing detail in: 'The energy node H-4 was assigned the capacity of 303' ? Answer with the value only."
+  },
+  {
+   "id": "cf-007b",
+   "tier": "confusable",
+   "topic": "energy",
+   "text": "The energy node H-4 was assigned the capacity of 250 GiB",
+   "value": "250 GiB",
+   "query": "What is the missing detail in: 'The energy node H-4 was assigned the capacity of 250' ? Answer with the value only."
+  },
+  {
+   "id": "cf-008a",
+   "tier": "confusable",
+   "topic": "network",
+   "text": "The network node I-1 was assigned the capacity of 147 GiB",
+   "value": "147 GiB",
+   "query": "What is the missing detail in: 'The network node I-1 was assigned the capacity of 147' ? Answer with the value only."
+  },
+  {
+   "id": "cf-008b",
+   "tier": "confusable",
+   "topic": "network",
+   "text": "The network node I-1 was assigned the capacity of 350 GiB",
+   "value": "350 GiB",
+   "query": "What is the missing detail in: 'The network node I-1 was assigned the capacity of 350' ? Answer with the value only."
+  },
+  {
+   "id": "cf-009a",
+   "tier": "confusable",
+   "topic": "database",
+   "text": "The database node J-8 was assigned the capacity of 725 GiB",
+   "value": "725 GiB",
+   "query": "What is the missing detail in: 'The database node J-8 was assigned the capacity of 725' ? Answer with the value only."
+  },
+  {
+   "id": "cf-009b",
+   "tier": "confusable",
+   "topic": "database",
+   "text": "The database node J-8 was assigned the capacity of 886 GiB",
+   "value": "886 GiB",
+   "query": "What is the missing detail in: 'The database node J-8 was assigned the capacity of 886' ? Answer with the value only."
+  },
+  {
+   "id": "cf-010a",
+   "tier": "confusable",
+   "topic": "storage",
+   "text": "The storage node K-2 was assigned the capacity of 566 GiB",
+   "value": "566 GiB",
+   "query": "What is the missing detail in: 'The storage node K-2 was assigned the capacity of 566' ? Answer with the value only."
+  },
+  {
+   "id": "cf-010b",
+   "tier": "confusable",
+   "topic": "storage",
+   "text": "The storage node K-2 was assigned the capacity of 524 GiB",
+   "value": "524 GiB",
+   "query": "What is the missing detail in: 'The storage node K-2 was assigned the capacity of 524' ? Answer with the value only."
+  },
+  {
+   "id": "cf-011a",
+   "tier": "confusable",
+   "topic": "deployment",
+   "text": "The deployment node L-4 was assigned the capacity of 835 GiB",
+   "value": "835 GiB",
+   "query": "What is the missing detail in: 'The deployment node L-4 was assigned the capacity of 835' ? Answer with the value only."
+  },
+  {
+   "id": "cf-011b",
+   "tier": "confusable",
+   "topic": "deployment",
+   "text": "The deployment node L-4 was assigned the capacity of 813 GiB",
+   "value": "813 GiB",
+   "query": "What is the missing detail in: 'The deployment node L-4 was assigned the capacity of 813' ? Answer with the value only."
+  },
+  {
+   "id": "cf-012a",
+   "tier": "confusable",
+   "topic": "security",
+   "text": "The security node M-7 was assigned the capacity of 606 GiB",
+   "value": "606 GiB",
+   "query": "What is the missing detail in: 'The security node M-7 was assigned the capacity of 606' ? Answer with the value only."
+  },
+  {
+   "id": "cf-012b",
+   "tier": "confusable",
+   "topic": "security",
+   "text": "The security node M-7 was assigned the capacity of 509 GiB",
+   "value": "509 GiB",
+   "query": "What is the missing detail in: 'The security node M-7 was assigned the capacity of 509' ? Answer with the value only."
+  },
+  {
+   "id": "cf-013a",
+   "tier": "confusable",
+   "topic": "finance",
+   "text": "The finance node N-4 was assigned the capacity of 251 GiB",
+   "value": "251 GiB",
+   "query": "What is the missing detail in: 'The finance node N-4 was assigned the capacity of 251' ? Answer with the value only."
+  },
+  {
+   "id": "cf-013b",
+   "tier": "confusable",
+   "topic": "finance",
+   "text": "The finance node N-4 was assigned the capacity of 771 GiB",
+   "value": "771 GiB",
+   "query": "What is the missing detail in: 'The finance node N-4 was assigned the capacity of 771' ? Answer with the value only."
+  },
+  {
+   "id": "cf-014a",
+   "tier": "confusable",
+   "topic": "health",
+   "text": "The health node O-1 was assigned the capacity of 868 GiB",
+   "value": "868 GiB",
+   "query": "What is the missing detail in: 'The health node O-1 was assigned the capacity of 868' ? Answer with the value only."
+  },
+  {
+   "id": "cf-014b",
+   "tier": "confusable",
+   "topic": "health",
+   "text": "The health node O-1 was assigned the capacity of 888 GiB",
+   "value": "888 GiB",
+   "query": "What is the missing detail in: 'The health node O-1 was assigned the capacity of 888' ? Answer with the value only."
+  },
+  {
+   "id": "cf-015a",
+   "tier": "confusable",
+   "topic": "energy",
+   "text": "The energy node P-2 was assigned the capacity of 897 GiB",
+   "value": "897 GiB",
+   "query": "What is the missing detail in: 'The energy node P-2 was assigned the capacity of 897' ? Answer with the value only."
+  },
+  {
+   "id": "cf-015b",
+   "tier": "confusable",
+   "topic": "energy",
+   "text": "The energy node P-2 was assigned the capacity of 535 GiB",
+   "value": "535 GiB",
+   "query": "What is the missing detail in: 'The energy node P-2 was assigned the capacity of 535' ? Answer with the value only."
+  },
+  {
+   "id": "cf-016a",
+   "tier": "confusable",
+   "topic": "network",
+   "text": "The network node Q-4 was assigned the capacity of 280 GiB",
+   "value": "280 GiB",
+   "query": "What is the missing detail in: 'The network node Q-4 was assigned the capacity of 280' ? Answer with the value only."
+  },
+  {
+   "id": "cf-016b",
+   "tier": "confusable",
+   "topic": "network",
+   "text": "The network node Q-4 was assigned the capacity of 812 GiB",
+   "value": "812 GiB",
+   "query": "What is the missing detail in: 'The network node Q-4 was assigned the capacity of 812' ? Answer with the value only."
+  },
+  {
+   "id": "cf-017a",
+   "tier": "confusable",
+   "topic": "database",
+   "text": "The database node R-9 was assigned the capacity of 575 GiB",
+   "value": "575 GiB",
+   "query": "What is the missing detail in: 'The database node R-9 was assigned the capacity of 575' ? Answer with the value only."
+  },
+  {
+   "id": "cf-017b",
+   "tier": "confusable",
+   "topic": "database",
+   "text": "The database node R-9 was assigned the capacity of 151 GiB",
+   "value": "151 GiB",
+   "query": "What is the missing detail in: 'The database node R-9 was assigned the capacity of 151' ? Answer with the value only."
+  },
+  {
+   "id": "cf-018a",
+   "tier": "confusable",
+   "topic": "storage",
+   "text": "The storage node S-9 was assigned the capacity of 355 GiB",
+   "value": "355 GiB",
+   "query": "What is the missing detail in: 'The storage node S-9 was assigned the capacity of 355' ? Answer with the value only."
+  },
+  {
+   "id": "cf-018b",
+   "tier": "confusable",
+   "topic": "storage",
+   "text": "The storage node S-9 was assigned the capacity of 224 GiB",
+   "value": "224 GiB",
+   "query": "What is the missing detail in: 'The storage node S-9 was assigned the capacity of 224' ? Answer with the value only."
+  },
+  {
+   "id": "cf-019a",
+   "tier": "confusable",
+   "topic": "deployment",
+   "text": "The deployment node T-8 was assigned the capacity of 236 GiB",
+   "value": "236 GiB",
+   "query": "What is the missing detail in: 'The deployment node T-8 was assigned the capacity of 236' ? Answer with the value only."
+  },
+  {
+   "id": "cf-019b",
+   "tier": "confusable",
+   "topic": "deployment",
+   "text": "The deployment node T-8 was assigned the capacity of 575 GiB",
+   "value": "575 GiB",
+   "query": "What is the missing detail in: 'The deployment node T-8 was assigned the capacity of 575' ? Answer with the value only."
+  }
+ ]
+}
